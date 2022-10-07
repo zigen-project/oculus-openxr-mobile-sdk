@@ -10,4 +10,5 @@ Everything in this repository except for this README.adoc file is a copy of
 the Oculus OpenXR Mobile SDK provided by Facebook Technologies. This repository
 does not exist for the purpose of redistributing this SDK, but for distributing,
 developing, and testing applications related to Oculus support for the ZIGEN
-project. As such, it should never be made a Public repository.
+project. Therefore, if you wish to use this SDK, please follow the license
+provided by Facebook Technologies and download it from the link above.
